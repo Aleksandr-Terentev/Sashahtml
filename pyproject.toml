@@ -1,6 +1,5 @@
-
 [tool.poetry]
-name = "sashahtml"
+name = "htmlproject"
 version = "0.1.0"
 description = ""
 authors = ["verba4182 <verba4182@mail.ru>"]
